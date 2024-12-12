@@ -1,2 +1,1 @@
-# loops-rn
-Loops React Native App
+# moved to https://github.com/joinloops/loops-app
